@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2? family= Akshar:wght@300 & family= Cormorant+SC:wght@300 & family= Odibee+Sans & display=swap');
+
+*{
+  box-sizing:border-box;
+}
+body{
+  background:gray;
+  margin:0;
+  padding:0;
+}
+.label{
+  color:white;
+  text-align:center;
+  margin-top:10px;
+  letter-spacing:5px;
+  font-weight:bold;
+  text-transform:uppercase;
+}
+
+form{
+  border:2px solid burlywood;
+  
+}
+.formulario{
+  border-radius:10px;
+  width:50%;
+  margin-left:30%;
+  margin-top:50%;
+  height:159px;
+  
+}
+.input{
+ text-align:center;
+ margin-top:10px;
+}
+.butao{
+  text-align:center;
+  margin-top:12px;
+  
+  
+}
+button{
+  width:100%;
+  padding:3px;
+  background:#ab78c8;
+  border-radius:10px;
+  border:hidden;
+  font-weight:bold;
+  color:burlywood;
+}
+button:hover{
+  width:100%;
+  padding:3px;
+  background:#833a80;
+  border-radius:10px;
+  border:2px solid white;
+  letter-spacing:10px;
+  
+}
